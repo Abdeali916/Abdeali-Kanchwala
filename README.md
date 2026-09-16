@@ -32,17 +32,7 @@ End-to-end ML project development
 
 I'm interested in opportunities related to:
 
-Data Analyst
-
-Business Analyst
-
-Junior Data Scientist
-
-Data Science Intern
-
-Business Intelligence Intern
-
-Analytics Intern
+Data Analyst | Business Analyst | Junior Data Scientist | Data Science Intern | Business Intelligence Intern | Analytics Intern
 
 I'm especially interested in roles where I can work with real-world data, solve business problems, and continuously develop my analytical and technical skills.
 
@@ -52,8 +42,6 @@ Email: your-abdealikanchwala916@gmail.com
 
 LinkedIn: www.linkedin.com/in/abdeali-kanchwala-89b210231
 
-
-Replace the contact placeholders above with your actual email, LinkedIn profile, and GitHub username before publishing.
 
 📌 Quick Profile
 
